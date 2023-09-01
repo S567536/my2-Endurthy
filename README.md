@@ -9,3 +9,8 @@ Paris ,the capital of France,is renowned for its iconic **Eiffel Tower**,world-c
 1. Visiting the Eiffel Tower
 2. Exploring the Louvre Museum
 3. Strolling along the Champs-Elysees
+
+### Appetizer 
+- Croissant
+- Escargot
+- Creme Brulee
