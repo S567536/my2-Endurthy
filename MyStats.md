@@ -20,7 +20,7 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
 
 ### Scientists 
 
->If you fail, never give up because FAIL MEANS " First Attempt in Learning *APJ abdul Kalam*
+>If you fail, never give up because FAIL MEANS " First Attempt in Learning" *APJ abdul Kalam*
 
 >A person who never made a mistake never tires anything new *Albert Einstein*
 
