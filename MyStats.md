@@ -4,3 +4,14 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
  My ideal vacation would involve scuba diving in the Maldives.
 
 ![myself](myself.jpg)
+
+
+---
+
+### Sports
+
+| Name | Reason | Hours per week |
+|------| -------|----------------|
+| Cricket | Teamwork | 8 |
+| Basket Ball | Physcial Fitness and overall health| 10 |
+|Football | Personal growth and character Development | 8 |
