@@ -29,3 +29,14 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
 > Every individual matters .Every individual has a role to play *Jane Goodall* 
 
 
+---
+
+ ```
+ $("#more-less-options-button").click(function() {
+     var txt = $("#extra-options").is(':visible') ? 'more options' : 'less options';
+     $("#more-less-options-button").text(txt);
+     $("#extra-options").slideToggle();
+});
+ ```
+
+
