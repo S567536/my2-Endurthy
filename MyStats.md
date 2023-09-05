@@ -33,6 +33,8 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
 
 ---
 
+### Code Snippet 
+
 >How can you use jQuery to create a toogle effect to change the text of an HTML element when a button is clicked?
 
  [Toogle text with jQuery](https://stackoverflow.com/questions/4326910/toggle-text-with-jquery)
