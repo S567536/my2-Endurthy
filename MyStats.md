@@ -15,6 +15,8 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
 | Cricket | Teamwork | 8 |
 | Basketball | Physcial Fitness and overall health| 10 |
 | Football | Personal growth and character Development | 8 |
+| Volleyball | Teamwork and communication | 6 |
+| Swimming | Full-body workout | 5 |
 
 ---
 
