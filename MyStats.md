@@ -31,6 +31,10 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
 
 ---
 
+>How can you use jQuery to create a toogle effect to change the text of an HTML element when a button is clicked?
+
+ [Toogle text with jQuery](https://stackoverflow.com/questions/4326910/toggle-text-with-jquery)
+
  ```
  $("#more-less-options-button").click(function() {
      var txt = $("#extra-options").is(':visible') ? 'more options' : 'less options';
@@ -38,5 +42,6 @@ I'm Rishik Reddy Endurthy, and my favourite hobbies include playing cricket and 
      $("#extra-options").slideToggle();
 });
  ```
+ [Snippet Source](https://css-tricks.com/snippets/jquery/toggle-text/)
 
 
